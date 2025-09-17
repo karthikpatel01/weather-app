@@ -1,4 +1,4 @@
-## 🌤 Weather App
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2c921a3c-f150-40e1-9709-061dbeed7d9f" />## 🌤 Weather App
 
 A modern and responsive **Weather Application** built using **HTML, CSS, and JavaScript**.  
 It fetches real-time weather updates from the **OpenWeather13 API (via RapidAPI)** and displays city-specific weather conditions in a clean UI.  
@@ -19,25 +19,20 @@ It fetches real-time weather updates from the **OpenWeather13 API (via RapidAPI)
 
 🌟 Technologies Used
 
-HTML5 – Structure
+:) HTML5 – Structure
 
-CSS3 – Styling & Animations
+:) CSS3 – Styling & Animations
 
-JavaScript (ES6) – Fetch API, DOM updates
+:) JavaScript (ES6) – Fetch API, DOM updates
 
-RapidAPI – OpenWeather13 API
+:) RapidAPI – OpenWeather13 API
+----
 
 🙌 Future Improvements
 
-🌍 Auto-detect location & show weather
+🌍 Auto-detect location & show weather
 
-🎨 Dynamic weather icons (sun, rain, clouds)
+🎨 Dynamic weather icons (sun, rain, clouds)
 
-📱 Better responsive design for mobile
+📱 Better responsive design for mobile
 
-❤️ Credits
-
-Made with ❤️ by @Ravitejatorrikonda
-
-
-Powered by OpenWeather13 API
