@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2c921a3c-f150-40e1-9709-061dbeed7d9f" />## 🌤 Weather App
+## 🌤 Weather App
 
 A modern and responsive **Weather Application** built using **HTML, CSS, and JavaScript**.  
 It fetches real-time weather updates from the **OpenWeather13 API (via RapidAPI)** and displays city-specific weather conditions in a clean UI.  
